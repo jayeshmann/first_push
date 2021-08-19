@@ -1,0 +1,3 @@
+Free to do anything.
+
+This License is for testing restore file feature of refined-github
